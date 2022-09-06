@@ -63,7 +63,7 @@ ul {
   .sidebar__hamburger-icon {
     width: 29px;
     height: 29px;
-    fill: var(--red);
+    fill: white;
   }
   
   .sidebar__hamburger {
@@ -101,7 +101,7 @@ ul {
   .sidebar__close-icon {
     width: 29px;
     height: 29px;
-    fill: var(--red);
+    fill: black;
   }
   
   .side-menu__item {
