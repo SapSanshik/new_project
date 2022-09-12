@@ -1,13 +1,13 @@
 body {
     width: 414px;
-    background: url(/img/free-png.ru-341.png) no-repeat;
+    background: url(/img/free-png.ru-341.png);
     background-size: 100%;
 }
 
 .header a {
     text-decoration: none;
 }
-
+ 
 .header__logo {
     left: 200px;
     color:#fff;
@@ -17,6 +17,9 @@ body {
     padding-left: 100px;
 }
 
+.selection {
+    padding-top: 30px;
+}
 
 .box {
     width: 222px;
