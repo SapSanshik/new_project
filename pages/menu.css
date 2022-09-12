@@ -1,0 +1,46 @@
+body {
+    width: 414px;
+    background: url(/img/free-png.ru-341.png) no-repeat;
+    background-size: 100%;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+.header__logo {
+    left: 200px;
+    color:#fff;
+}
+
+.header__logo {
+    padding-left: 100px;
+}
+
+
+.box {
+    width: 222px;
+    padding: 5%;
+    margin: 0 15px 16px 0;
+    border: solid 1px #f2f2f2;
+    border-radius: 5px;
+    background-color: #0abab5;
+    color: #fff;
+    font-size: 1.5em;
+    list-style-type: none
+}
+
+.box-1 {
+    width: 222px;
+    padding: 5%;
+    padding-top: 60px;
+    margin: 0 15px 16px 0;
+    color: #0abab5;
+    font-size: 1.5em;
+    list-style-type: none  
+}
+
+.box a {
+    text-decoration: none;
+    color: #0abab5;
+}
