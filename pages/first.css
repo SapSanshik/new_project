@@ -1,9 +1,12 @@
 body {
     width: 414px;
-    height: 483px;
-    background-size: 100%;
-    background: url(img/soup.jpg) no-repeat;
-    background-size:100%
+    min-height: 100vh;
+    background: linear-gradient(#fff,#0abab5)
+}
+
+img {
+    position: relative;
+    padding-left: 20px;
 }
 
 .header__logo {
@@ -14,7 +17,6 @@ body {
 .box {
     border: solid 1px #0abab5;
     width: 380px;
-    background-color:aliceblue
 }
 
 .box h1{
@@ -27,5 +29,5 @@ body {
 }
 
 .box h2{
-    color:#000
+    color:#000;
 }
