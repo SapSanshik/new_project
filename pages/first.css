@@ -1,6 +1,31 @@
 body {
-    width: 331px;
-    height: 340px;
-    background: url(img/first.PNG) no-repeat;
+    width: 414px;
+    height: 483px;
     background-size: 100%;
+    background: url(img/soup.jpg) no-repeat;
+    background-size:100%
+}
+
+.header__logo {
+    padding-left: 117px;
+    color: #0abab5;
+}
+
+.box {
+    border: solid 1px #0abab5;
+    width: 380px;
+    background-color:aliceblue
+}
+
+.box h1{
+    background-color: #0abab5;
+    color:aliceblue;
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 10%;
+    width: 225px;
+}
+
+.box h2{
+    color:#000
 }
