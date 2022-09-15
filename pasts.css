@@ -1,0 +1,39 @@
+body {
+    width: 414px;
+    background:linear-gradient(#4bebe5, #fff,#8ff1ee);
+    min-height: 100vh;
+}
+
+img {
+    position: relative;
+    padding-left: 20px;
+}
+
+.header__logo {
+    padding-left: 100px;
+    color: #0abab5;
+}
+
+.header h1{
+    color: #179b59;
+    font-size: 35px;
+}
+
+.box {
+    border: solid 1px #0abab5;
+    width: 340px;
+}
+
+.box h1{
+    background-color: #0abab5;
+    color:aliceblue;
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 30%;
+    width: 100px;
+}
+
+.box h2{
+    color:rgb(0, 0, 0);
+    background-color:#4dfaf4;
+}
