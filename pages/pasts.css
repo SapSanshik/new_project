@@ -14,6 +14,11 @@ img {
     color: #0abab5;
 }
 
+.header h1{
+    color: #179b59;
+    font-size: 35px;
+}
+
 .box {
     border: solid 1px #0abab5;
     width: 340px;

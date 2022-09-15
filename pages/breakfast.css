@@ -4,6 +4,11 @@ body {
     background-size: 100%;
 }
 
+.header h1{
+    color: #179b59;
+    font-size: 35px;
+}
+
 .header__logo {
     padding-left: 117px;
     color: #0abab5;

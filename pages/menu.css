@@ -7,10 +7,16 @@ body {
 .header a {
     text-decoration: none;
 }
+
+.header h1{
+    color: #179b59;
+    font-size: 35px;
+}
  
 .header__logo {
     left: 200px;
     color:#fff;
+
 }
 
 .header__logo {
