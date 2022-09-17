@@ -1,6 +1,28 @@
-body {
-    width: 323px;
-    height: 423px;
-    background: url(img/salat.PNG) no-repeat;
-    background-size: 100%;
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 820px) { 
+    body {
+        width: 100%;
+        font-family: 'Indie Flower', cursive;
+        background: linear-gradient(to bottom left, cyan 50%, palegoldenrod 50%);
+    }
+
+    .header__logo {
+        padding-left: 20%;
+        color: rgb(82, 131, 77);
+    }
+
+    .header__logo img {
+        padding-left: 4%
+    }
+
+    .box {
+        width: 80%;
+        border: solid 1px #000;
+        border-radius: 5px;
+        padding-left: 2%;
+        color: rgb(82, 131, 77);
+    }
 }

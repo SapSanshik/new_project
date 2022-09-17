@@ -1,5 +1,8 @@
-body {
-    width: 414px;
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 820px) { 
+    body {
+    width: 100%;
     background:linear-gradient(#4bebe5, #fff,#8ff1ee);
     min-height: 100vh;
 }
@@ -36,4 +39,5 @@ img {
 .box h2{
     color:rgb(0, 0, 0);
     background-color:#4dfaf4;
+}
 }

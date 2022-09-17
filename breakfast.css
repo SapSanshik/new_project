@@ -1,4 +1,7 @@
-body {
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 820px) { 
+    body {
     width: 414px;
     height: 483px;
     background-size: 100%;
@@ -30,4 +33,5 @@ body {
 
 .box h2{
     color:#000
+}
 }

@@ -1,16 +1,15 @@
-body {
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 820px) { 
+    body {
     width: 414px;
     min-height: 100vh;
     background: linear-gradient(#fff,#0abab5,#fff);
-
-img {
-    position: relative;
-    padding-left: 2px;
-}
-
+    }
 .header h1{
     color: #179b59;
     font-size: 35px;
+    padding-left: 15%;
 }
 
 .header__logo {
@@ -35,4 +34,5 @@ img {
 
 .box h2{
     color:#000;
+}
 }
