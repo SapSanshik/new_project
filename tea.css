@@ -1,0 +1,55 @@
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 820px) { 
+    body {
+    width: 100%;
+    background:linear-gradient(#fff,#8ff1ee,#bff7f5);
+    min-height: 100vh;
+}
+
+img {
+    position: relative;
+    padding-left: 20px;
+}
+
+.header h1{
+    color: #179b59;
+    font-size: 35px;
+}
+
+.header__logo {
+    padding-left: 100px;
+    color: #0abab5;
+}
+
+.box {
+    border: solid 1px #0abab5;
+    padding-right: 0%;
+    width: 95%;
+}
+
+.box p {
+    margin-top: 0%;
+    margin-left: 25%;
+}
+
+.title {
+    background-color: #0abab5;
+    color:aliceblue;
+    padding-top: 20px;
+    margin-top: 0;
+    margin-left: 0;
+    width: 100%;
+}
+
+.namer{
+    color:rgb(0, 0, 0);
+}
+
+h3{
+    padding-top: 0;
+    float: right;
+}
+
+
+}
